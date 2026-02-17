@@ -1,0 +1,3842 @@
+[
+  {
+    "id": 1,
+    "uczestnik": "U001",
+    "wynik": {
+      "rt_ms": 851,
+      "accuracy": 0.86
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 2,
+    "uczestnik": "U002",
+    "wynik": {
+      "rt_ms": 787,
+      "accuracy": 0.732
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 3,
+    "uczestnik": "U003",
+    "wynik": {
+      "rt_ms": 670,
+      "accuracy": 0.727
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 4,
+    "uczestnik": "U004",
+    "wynik": {
+      "rt_ms": 812,
+      "accuracy": 0.756
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 5,
+    "uczestnik": "U005",
+    "wynik": {
+      "rt_ms": 881,
+      "accuracy": 0.792
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 6,
+    "uczestnik": "U006",
+    "wynik": {
+      "rt_ms": 878,
+      "accuracy": 0.894
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 7,
+    "uczestnik": "U007",
+    "wynik": {
+      "rt_ms": 648,
+      "accuracy": 0.748
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 8,
+    "uczestnik": "U008",
+    "wynik": {
+      "rt_ms": 822,
+      "accuracy": 0.625
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 9,
+    "uczestnik": "U009",
+    "wynik": {
+      "rt_ms": 879,
+      "accuracy": 0.957
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 10,
+    "uczestnik": "U010",
+    "wynik": {
+      "rt_ms": 442,
+      "accuracy": 0.875
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 11,
+    "uczestnik": "U011",
+    "wynik": {
+      "rt_ms": 488,
+      "accuracy": 0.727
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 12,
+    "uczestnik": "U012",
+    "wynik": {
+      "rt_ms": 375,
+      "accuracy": 0.63
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 13,
+    "uczestnik": "U013",
+    "wynik": {
+      "rt_ms": 442,
+      "accuracy": 0.663
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 14,
+    "uczestnik": "U014",
+    "wynik": {
+      "rt_ms": 443,
+      "accuracy": 0.601
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 15,
+    "uczestnik": "U015",
+    "wynik": {
+      "rt_ms": 437,
+      "accuracy": 0.786
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 16,
+    "uczestnik": "U016",
+    "wynik": {
+      "rt_ms": 737,
+      "accuracy": 0.798
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 17,
+    "uczestnik": "U017",
+    "wynik": {
+      "rt_ms": 693,
+      "accuracy": 0.804
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 18,
+    "uczestnik": "U018",
+    "wynik": {
+      "rt_ms": 498,
+      "accuracy": 0.63
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 19,
+    "uczestnik": "U019",
+    "wynik": {
+      "rt_ms": 665,
+      "accuracy": 0.689
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 20,
+    "uczestnik": "U020",
+    "wynik": {
+      "rt_ms": 535,
+      "accuracy": 0.603
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 21,
+    "uczestnik": "U021",
+    "wynik": {
+      "rt_ms": 353,
+      "accuracy": 0.83
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 22,
+    "uczestnik": "U022",
+    "wynik": {
+      "rt_ms": 819,
+      "accuracy": 0.774
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 23,
+    "uczestnik": "U023",
+    "wynik": {
+      "rt_ms": 855,
+      "accuracy": 0.657
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 24,
+    "uczestnik": "U024",
+    "wynik": {
+      "rt_ms": 769,
+      "accuracy": 0.749
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 25,
+    "uczestnik": "U025",
+    "wynik": {
+      "rt_ms": 634,
+      "accuracy": 0.829
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 26,
+    "uczestnik": "U026",
+    "wynik": {
+      "rt_ms": 539,
+      "accuracy": 0.617
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 27,
+    "uczestnik": "U027",
+    "wynik": {
+      "rt_ms": 498,
+      "accuracy": 0.934
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 28,
+    "uczestnik": "U028",
+    "wynik": {
+      "rt_ms": 439,
+      "accuracy": 0.572
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 29,
+    "uczestnik": "U029",
+    "wynik": {
+      "rt_ms": 515,
+      "accuracy": 0.852
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 30,
+    "uczestnik": "U030",
+    "wynik": {
+      "rt_ms": 718,
+      "accuracy": 0.969
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 31,
+    "uczestnik": "U031",
+    "wynik": {
+      "rt_ms": 680,
+      "accuracy": 0.716
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 32,
+    "uczestnik": "U032",
+    "wynik": {
+      "rt_ms": 787,
+      "accuracy": 0.929
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 33,
+    "uczestnik": "U033",
+    "wynik": {
+      "rt_ms": 832,
+      "accuracy": 0.611
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 34,
+    "uczestnik": "U034",
+    "wynik": {
+      "rt_ms": 889,
+      "accuracy": 0.736
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 35,
+    "uczestnik": "U035",
+    "wynik": {
+      "rt_ms": 409,
+      "accuracy": 0.599
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 36,
+    "uczestnik": "U036",
+    "wynik": {
+      "rt_ms": 644,
+      "accuracy": 0.742
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 37,
+    "uczestnik": "U037",
+    "wynik": {
+      "rt_ms": 888,
+      "accuracy": 0.809
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 38,
+    "uczestnik": "U038",
+    "wynik": {
+      "rt_ms": 858,
+      "accuracy": 0.784
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 39,
+    "uczestnik": "U039",
+    "wynik": {
+      "rt_ms": 534,
+      "accuracy": 0.948
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 40,
+    "uczestnik": "U040",
+    "wynik": {
+      "rt_ms": 548,
+      "accuracy": 0.551
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 41,
+    "uczestnik": "U041",
+    "wynik": {
+      "rt_ms": 470,
+      "accuracy": 0.882
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 42,
+    "uczestnik": "U042",
+    "wynik": {
+      "rt_ms": 773,
+      "accuracy": 0.57
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 43,
+    "uczestnik": "U043",
+    "wynik": {
+      "rt_ms": 361,
+      "accuracy": 0.838
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 44,
+    "uczestnik": "U044",
+    "wynik": {
+      "rt_ms": 419,
+      "accuracy": 0.688
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 45,
+    "uczestnik": "U045",
+    "wynik": {
+      "rt_ms": 466,
+      "accuracy": 0.859
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 46,
+    "uczestnik": "U046",
+    "wynik": {
+      "rt_ms": 379,
+      "accuracy": 0.924
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 47,
+    "uczestnik": "U047",
+    "wynik": {
+      "rt_ms": 696,
+      "accuracy": 0.965
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 48,
+    "uczestnik": "U048",
+    "wynik": {
+      "rt_ms": 386,
+      "accuracy": 0.841
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 49,
+    "uczestnik": "U049",
+    "wynik": {
+      "rt_ms": 821,
+      "accuracy": 0.951
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 50,
+    "uczestnik": "U050",
+    "wynik": {
+      "rt_ms": 773,
+      "accuracy": 0.968
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 51,
+    "uczestnik": "U051",
+    "wynik": {
+      "rt_ms": 673,
+      "accuracy": 0.8
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 52,
+    "uczestnik": "U052",
+    "wynik": {
+      "rt_ms": 689,
+      "accuracy": 0.91
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 53,
+    "uczestnik": "U053",
+    "wynik": {
+      "rt_ms": 502,
+      "accuracy": 0.676
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 54,
+    "uczestnik": "U054",
+    "wynik": {
+      "rt_ms": 734,
+      "accuracy": 0.832
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 55,
+    "uczestnik": "U055",
+    "wynik": {
+      "rt_ms": 541,
+      "accuracy": 0.818
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 56,
+    "uczestnik": "U056",
+    "wynik": {
+      "rt_ms": 382,
+      "accuracy": 0.672
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 57,
+    "uczestnik": "U057",
+    "wynik": {
+      "rt_ms": 593,
+      "accuracy": 0.717
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 58,
+    "uczestnik": "U058",
+    "wynik": {
+      "rt_ms": 887,
+      "accuracy": 0.686
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 59,
+    "uczestnik": "U059",
+    "wynik": {
+      "rt_ms": 388,
+      "accuracy": 0.9
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 60,
+    "uczestnik": "U060",
+    "wynik": {
+      "rt_ms": 868,
+      "accuracy": 0.561
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 61,
+    "uczestnik": "U061",
+    "wynik": {
+      "rt_ms": 544,
+      "accuracy": 0.703
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 62,
+    "uczestnik": "U062",
+    "wynik": {
+      "rt_ms": 685,
+      "accuracy": 0.614
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 63,
+    "uczestnik": "U063",
+    "wynik": {
+      "rt_ms": 560,
+      "accuracy": 0.876
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 64,
+    "uczestnik": "U064",
+    "wynik": {
+      "rt_ms": 884,
+      "accuracy": 0.602
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 65,
+    "uczestnik": "U065",
+    "wynik": {
+      "rt_ms": 439,
+      "accuracy": 0.7
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 66,
+    "uczestnik": "U066",
+    "wynik": {
+      "rt_ms": 883,
+      "accuracy": 0.895
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 67,
+    "uczestnik": "U067",
+    "wynik": {
+      "rt_ms": 669,
+      "accuracy": 0.837
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 68,
+    "uczestnik": "U068",
+    "wynik": {
+      "rt_ms": 555,
+      "accuracy": 0.637
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 69,
+    "uczestnik": "U069",
+    "wynik": {
+      "rt_ms": 801,
+      "accuracy": 0.852
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 70,
+    "uczestnik": "U070",
+    "wynik": {
+      "rt_ms": 511,
+      "accuracy": 0.673
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 71,
+    "uczestnik": "U071",
+    "wynik": {
+      "rt_ms": 561,
+      "accuracy": 0.794
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 72,
+    "uczestnik": "U072",
+    "wynik": {
+      "rt_ms": 494,
+      "accuracy": 0.974
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 73,
+    "uczestnik": "U073",
+    "wynik": {
+      "rt_ms": 525,
+      "accuracy": 0.582
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 74,
+    "uczestnik": "U074",
+    "wynik": {
+      "rt_ms": 401,
+      "accuracy": 0.609
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 75,
+    "uczestnik": "U075",
+    "wynik": {
+      "rt_ms": 458,
+      "accuracy": 0.723
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 76,
+    "uczestnik": "U076",
+    "wynik": {
+      "rt_ms": 751,
+      "accuracy": 0.631
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 77,
+    "uczestnik": "U077",
+    "wynik": {
+      "rt_ms": 669,
+      "accuracy": 0.7
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 78,
+    "uczestnik": "U078",
+    "wynik": {
+      "rt_ms": 826,
+      "accuracy": 0.806
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 79,
+    "uczestnik": "U079",
+    "wynik": {
+      "rt_ms": 449,
+      "accuracy": 0.755
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 80,
+    "uczestnik": "U080",
+    "wynik": {
+      "rt_ms": 587,
+      "accuracy": 0.976
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 81,
+    "uczestnik": "U081",
+    "wynik": {
+      "rt_ms": 722,
+      "accuracy": 0.726
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 82,
+    "uczestnik": "U082",
+    "wynik": {
+      "rt_ms": 814,
+      "accuracy": 0.769
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 83,
+    "uczestnik": "U083",
+    "wynik": {
+      "rt_ms": 465,
+      "accuracy": 0.708
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 84,
+    "uczestnik": "U084",
+    "wynik": {
+      "rt_ms": 639,
+      "accuracy": 0.896
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 85,
+    "uczestnik": "U085",
+    "wynik": {
+      "rt_ms": 765,
+      "accuracy": 0.918
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 86,
+    "uczestnik": "U086",
+    "wynik": {
+      "rt_ms": 422,
+      "accuracy": 0.907
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 87,
+    "uczestnik": "U087",
+    "wynik": {
+      "rt_ms": 773,
+      "accuracy": 0.657
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 88,
+    "uczestnik": "U088",
+    "wynik": {
+      "rt_ms": 843,
+      "accuracy": 0.723
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 89,
+    "uczestnik": "U089",
+    "wynik": {
+      "rt_ms": 791,
+      "accuracy": 0.903
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 90,
+    "uczestnik": "U090",
+    "wynik": {
+      "rt_ms": 591,
+      "accuracy": 0.628
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 91,
+    "uczestnik": "U091",
+    "wynik": {
+      "rt_ms": 467,
+      "accuracy": 0.816
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 92,
+    "uczestnik": "U092",
+    "wynik": {
+      "rt_ms": 449,
+      "accuracy": 0.92
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 93,
+    "uczestnik": "U093",
+    "wynik": {
+      "rt_ms": 765,
+      "accuracy": 0.581
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 94,
+    "uczestnik": "U094",
+    "wynik": {
+      "rt_ms": 685,
+      "accuracy": 0.772
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 95,
+    "uczestnik": "U095",
+    "wynik": {
+      "rt_ms": 572,
+      "accuracy": 0.918
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 96,
+    "uczestnik": "U096",
+    "wynik": {
+      "rt_ms": 502,
+      "accuracy": 0.754
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 97,
+    "uczestnik": "U097",
+    "wynik": {
+      "rt_ms": 807,
+      "accuracy": 0.638
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 98,
+    "uczestnik": "U098",
+    "wynik": {
+      "rt_ms": 661,
+      "accuracy": 0.963
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 99,
+    "uczestnik": "U099",
+    "wynik": {
+      "rt_ms": 441,
+      "accuracy": 0.812
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 100,
+    "uczestnik": "U100",
+    "wynik": {
+      "rt_ms": 651,
+      "accuracy": 0.578
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 101,
+    "uczestnik": "U101",
+    "wynik": {
+      "rt_ms": 717,
+      "accuracy": 0.599
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 102,
+    "uczestnik": "U102",
+    "wynik": {
+      "rt_ms": 590,
+      "accuracy": 0.744
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 103,
+    "uczestnik": "U103",
+    "wynik": {
+      "rt_ms": 741,
+      "accuracy": 0.733
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 104,
+    "uczestnik": "U104",
+    "wynik": {
+      "rt_ms": 527,
+      "accuracy": 0.764
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 105,
+    "uczestnik": "U105",
+    "wynik": {
+      "rt_ms": 718,
+      "accuracy": 0.928
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 106,
+    "uczestnik": "U106",
+    "wynik": {
+      "rt_ms": 478,
+      "accuracy": 0.61
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 107,
+    "uczestnik": "U107",
+    "wynik": {
+      "rt_ms": 497,
+      "accuracy": 0.875
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 108,
+    "uczestnik": "U108",
+    "wynik": {
+      "rt_ms": 489,
+      "accuracy": 0.588
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 109,
+    "uczestnik": "U109",
+    "wynik": {
+      "rt_ms": 785,
+      "accuracy": 0.83
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 110,
+    "uczestnik": "U110",
+    "wynik": {
+      "rt_ms": 810,
+      "accuracy": 0.723
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 111,
+    "uczestnik": "U111",
+    "wynik": {
+      "rt_ms": 784,
+      "accuracy": 0.822
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 112,
+    "uczestnik": "U112",
+    "wynik": {
+      "rt_ms": 863,
+      "accuracy": 0.671
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 113,
+    "uczestnik": "U113",
+    "wynik": {
+      "rt_ms": 388,
+      "accuracy": 0.806
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 114,
+    "uczestnik": "U114",
+    "wynik": {
+      "rt_ms": 843,
+      "accuracy": 0.983
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 115,
+    "uczestnik": "U115",
+    "wynik": {
+      "rt_ms": 889,
+      "accuracy": 0.993
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 116,
+    "uczestnik": "U116",
+    "wynik": {
+      "rt_ms": 879,
+      "accuracy": 0.585
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 117,
+    "uczestnik": "U117",
+    "wynik": {
+      "rt_ms": 833,
+      "accuracy": 0.834
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 118,
+    "uczestnik": "U118",
+    "wynik": {
+      "rt_ms": 404,
+      "accuracy": 0.957
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 119,
+    "uczestnik": "U119",
+    "wynik": {
+      "rt_ms": 814,
+      "accuracy": 0.781
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 120,
+    "uczestnik": "U120",
+    "wynik": {
+      "rt_ms": 781,
+      "accuracy": 0.709
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 121,
+    "uczestnik": "U121",
+    "wynik": {
+      "rt_ms": 521,
+      "accuracy": 0.566
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 122,
+    "uczestnik": "U122",
+    "wynik": {
+      "rt_ms": 412,
+      "accuracy": 0.833
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 123,
+    "uczestnik": "U123",
+    "wynik": {
+      "rt_ms": 648,
+      "accuracy": 0.914
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 124,
+    "uczestnik": "U124",
+    "wynik": {
+      "rt_ms": 846,
+      "accuracy": 0.587
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 125,
+    "uczestnik": "U125",
+    "wynik": {
+      "rt_ms": 608,
+      "accuracy": 0.61
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 126,
+    "uczestnik": "U126",
+    "wynik": {
+      "rt_ms": 613,
+      "accuracy": 0.556
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 127,
+    "uczestnik": "U127",
+    "wynik": {
+      "rt_ms": 504,
+      "accuracy": 0.847
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 128,
+    "uczestnik": "U128",
+    "wynik": {
+      "rt_ms": 617,
+      "accuracy": 0.902
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 129,
+    "uczestnik": "U129",
+    "wynik": {
+      "rt_ms": 535,
+      "accuracy": 0.91
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 130,
+    "uczestnik": "U130",
+    "wynik": {
+      "rt_ms": 436,
+      "accuracy": 0.985
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 131,
+    "uczestnik": "U131",
+    "wynik": {
+      "rt_ms": 772,
+      "accuracy": 0.897
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 132,
+    "uczestnik": "U132",
+    "wynik": {
+      "rt_ms": 521,
+      "accuracy": 0.645
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 133,
+    "uczestnik": "U133",
+    "wynik": {
+      "rt_ms": 620,
+      "accuracy": 0.89
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 134,
+    "uczestnik": "U134",
+    "wynik": {
+      "rt_ms": 521,
+      "accuracy": 0.759
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 135,
+    "uczestnik": "U135",
+    "wynik": {
+      "rt_ms": 837,
+      "accuracy": 0.886
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 136,
+    "uczestnik": "U136",
+    "wynik": {
+      "rt_ms": 749,
+      "accuracy": 0.764
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 137,
+    "uczestnik": "U137",
+    "wynik": {
+      "rt_ms": 362,
+      "accuracy": 0.68
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 138,
+    "uczestnik": "U138",
+    "wynik": {
+      "rt_ms": 673,
+      "accuracy": 0.983
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 139,
+    "uczestnik": "U139",
+    "wynik": {
+      "rt_ms": 894,
+      "accuracy": 0.837
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 140,
+    "uczestnik": "U140",
+    "wynik": {
+      "rt_ms": 693,
+      "accuracy": 0.672
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 141,
+    "uczestnik": "U141",
+    "wynik": {
+      "rt_ms": 750,
+      "accuracy": 0.757
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 142,
+    "uczestnik": "U142",
+    "wynik": {
+      "rt_ms": 882,
+      "accuracy": 0.702
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 143,
+    "uczestnik": "U143",
+    "wynik": {
+      "rt_ms": 360,
+      "accuracy": 0.853
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 144,
+    "uczestnik": "U144",
+    "wynik": {
+      "rt_ms": 771,
+      "accuracy": 0.594
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 145,
+    "uczestnik": "U145",
+    "wynik": {
+      "rt_ms": 709,
+      "accuracy": 0.649
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 146,
+    "uczestnik": "U146",
+    "wynik": {
+      "rt_ms": 547,
+      "accuracy": 0.565
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 147,
+    "uczestnik": "U147",
+    "wynik": {
+      "rt_ms": 572,
+      "accuracy": 0.978
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 148,
+    "uczestnik": "U148",
+    "wynik": {
+      "rt_ms": 438,
+      "accuracy": 0.935
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 149,
+    "uczestnik": "U149",
+    "wynik": {
+      "rt_ms": 539,
+      "accuracy": 0.953
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 150,
+    "uczestnik": "U150",
+    "wynik": {
+      "rt_ms": 651,
+      "accuracy": 0.76
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 151,
+    "uczestnik": "U151",
+    "wynik": {
+      "rt_ms": 633,
+      "accuracy": 0.896
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 152,
+    "uczestnik": "U152",
+    "wynik": {
+      "rt_ms": 515,
+      "accuracy": 0.901
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 153,
+    "uczestnik": "U153",
+    "wynik": {
+      "rt_ms": 741,
+      "accuracy": 0.725
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 154,
+    "uczestnik": "U154",
+    "wynik": {
+      "rt_ms": 621,
+      "accuracy": 0.63
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 155,
+    "uczestnik": "U155",
+    "wynik": {
+      "rt_ms": 555,
+      "accuracy": 0.825
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 156,
+    "uczestnik": "U156",
+    "wynik": {
+      "rt_ms": 461,
+      "accuracy": 0.615
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 157,
+    "uczestnik": "U157",
+    "wynik": {
+      "rt_ms": 458,
+      "accuracy": 0.961
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 158,
+    "uczestnik": "U158",
+    "wynik": {
+      "rt_ms": 385,
+      "accuracy": 0.583
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 159,
+    "uczestnik": "U159",
+    "wynik": {
+      "rt_ms": 369,
+      "accuracy": 0.953
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 160,
+    "uczestnik": "U160",
+    "wynik": {
+      "rt_ms": 388,
+      "accuracy": 0.849
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 161,
+    "uczestnik": "U161",
+    "wynik": {
+      "rt_ms": 687,
+      "accuracy": 0.957
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 162,
+    "uczestnik": "U162",
+    "wynik": {
+      "rt_ms": 839,
+      "accuracy": 0.746
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 163,
+    "uczestnik": "U163",
+    "wynik": {
+      "rt_ms": 353,
+      "accuracy": 0.723
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 164,
+    "uczestnik": "U164",
+    "wynik": {
+      "rt_ms": 898,
+      "accuracy": 0.971
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 165,
+    "uczestnik": "U165",
+    "wynik": {
+      "rt_ms": 660,
+      "accuracy": 0.73
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 166,
+    "uczestnik": "U166",
+    "wynik": {
+      "rt_ms": 897,
+      "accuracy": 0.934
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 167,
+    "uczestnik": "U167",
+    "wynik": {
+      "rt_ms": 820,
+      "accuracy": 0.892
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 168,
+    "uczestnik": "U168",
+    "wynik": {
+      "rt_ms": 530,
+      "accuracy": 0.8
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 169,
+    "uczestnik": "U169",
+    "wynik": {
+      "rt_ms": 656,
+      "accuracy": 0.863
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 170,
+    "uczestnik": "U170",
+    "wynik": {
+      "rt_ms": 848,
+      "accuracy": 0.588
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 171,
+    "uczestnik": "U171",
+    "wynik": {
+      "rt_ms": 493,
+      "accuracy": 0.566
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 172,
+    "uczestnik": "U172",
+    "wynik": {
+      "rt_ms": 850,
+      "accuracy": 0.725
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 173,
+    "uczestnik": "U173",
+    "wynik": {
+      "rt_ms": 896,
+      "accuracy": 0.984
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 174,
+    "uczestnik": "U174",
+    "wynik": {
+      "rt_ms": 387,
+      "accuracy": 0.703
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 175,
+    "uczestnik": "U175",
+    "wynik": {
+      "rt_ms": 765,
+      "accuracy": 0.603
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 176,
+    "uczestnik": "U176",
+    "wynik": {
+      "rt_ms": 588,
+      "accuracy": 0.966
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 177,
+    "uczestnik": "U177",
+    "wynik": {
+      "rt_ms": 850,
+      "accuracy": 0.844
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 178,
+    "uczestnik": "U178",
+    "wynik": {
+      "rt_ms": 598,
+      "accuracy": 0.866
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 179,
+    "uczestnik": "U179",
+    "wynik": {
+      "rt_ms": 526,
+      "accuracy": 0.835
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 180,
+    "uczestnik": "U180",
+    "wynik": {
+      "rt_ms": 817,
+      "accuracy": 0.825
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 181,
+    "uczestnik": "U181",
+    "wynik": {
+      "rt_ms": 466,
+      "accuracy": 0.774
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 182,
+    "uczestnik": "U182",
+    "wynik": {
+      "rt_ms": 557,
+      "accuracy": 0.742
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 183,
+    "uczestnik": "U183",
+    "wynik": {
+      "rt_ms": 473,
+      "accuracy": 0.989
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 184,
+    "uczestnik": "U184",
+    "wynik": {
+      "rt_ms": 568,
+      "accuracy": 0.894
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 185,
+    "uczestnik": "U185",
+    "wynik": {
+      "rt_ms": 414,
+      "accuracy": 0.604
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 186,
+    "uczestnik": "U186",
+    "wynik": {
+      "rt_ms": 522,
+      "accuracy": 0.863
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 187,
+    "uczestnik": "U187",
+    "wynik": {
+      "rt_ms": 599,
+      "accuracy": 0.967
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 188,
+    "uczestnik": "U188",
+    "wynik": {
+      "rt_ms": 452,
+      "accuracy": 0.906
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 189,
+    "uczestnik": "U189",
+    "wynik": {
+      "rt_ms": 366,
+      "accuracy": 0.946
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 190,
+    "uczestnik": "U190",
+    "wynik": {
+      "rt_ms": 357,
+      "accuracy": 0.631
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 191,
+    "uczestnik": "U191",
+    "wynik": {
+      "rt_ms": 776,
+      "accuracy": 0.862
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 192,
+    "uczestnik": "U192",
+    "wynik": {
+      "rt_ms": 561,
+      "accuracy": 0.614
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 193,
+    "uczestnik": "U193",
+    "wynik": {
+      "rt_ms": 771,
+      "accuracy": 0.658
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 194,
+    "uczestnik": "U194",
+    "wynik": {
+      "rt_ms": 534,
+      "accuracy": 0.873
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 195,
+    "uczestnik": "U195",
+    "wynik": {
+      "rt_ms": 706,
+      "accuracy": 0.738
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 196,
+    "uczestnik": "U196",
+    "wynik": {
+      "rt_ms": 470,
+      "accuracy": 0.994
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 197,
+    "uczestnik": "U197",
+    "wynik": {
+      "rt_ms": 869,
+      "accuracy": 0.649
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 198,
+    "uczestnik": "U198",
+    "wynik": {
+      "rt_ms": 404,
+      "accuracy": 0.637
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 199,
+    "uczestnik": "U199",
+    "wynik": {
+      "rt_ms": 859,
+      "accuracy": 0.629
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 200,
+    "uczestnik": "U200",
+    "wynik": {
+      "rt_ms": 722,
+      "accuracy": 0.678
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 201,
+    "uczestnik": "U201",
+    "wynik": {
+      "rt_ms": 692,
+      "accuracy": 0.828
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 202,
+    "uczestnik": "U202",
+    "wynik": {
+      "rt_ms": 456,
+      "accuracy": 0.883
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 203,
+    "uczestnik": "U203",
+    "wynik": {
+      "rt_ms": 379,
+      "accuracy": 0.768
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 204,
+    "uczestnik": "U204",
+    "wynik": {
+      "rt_ms": 590,
+      "accuracy": 0.875
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 205,
+    "uczestnik": "U205",
+    "wynik": {
+      "rt_ms": 553,
+      "accuracy": 0.886
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 206,
+    "uczestnik": "U206",
+    "wynik": {
+      "rt_ms": 462,
+      "accuracy": 0.697
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 207,
+    "uczestnik": "U207",
+    "wynik": {
+      "rt_ms": 772,
+      "accuracy": 0.941
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 208,
+    "uczestnik": "U208",
+    "wynik": {
+      "rt_ms": 425,
+      "accuracy": 0.762
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 209,
+    "uczestnik": "U209",
+    "wynik": {
+      "rt_ms": 796,
+      "accuracy": 0.615
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 210,
+    "uczestnik": "U210",
+    "wynik": {
+      "rt_ms": 746,
+      "accuracy": 0.718
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 211,
+    "uczestnik": "U211",
+    "wynik": {
+      "rt_ms": 717,
+      "accuracy": 0.989
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 212,
+    "uczestnik": "U212",
+    "wynik": {
+      "rt_ms": 480,
+      "accuracy": 0.564
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 213,
+    "uczestnik": "U213",
+    "wynik": {
+      "rt_ms": 489,
+      "accuracy": 0.6
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 214,
+    "uczestnik": "U214",
+    "wynik": {
+      "rt_ms": 778,
+      "accuracy": 0.627
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 215,
+    "uczestnik": "U215",
+    "wynik": {
+      "rt_ms": 652,
+      "accuracy": 0.822
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 216,
+    "uczestnik": "U216",
+    "wynik": {
+      "rt_ms": 438,
+      "accuracy": 0.735
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 217,
+    "uczestnik": "U217",
+    "wynik": {
+      "rt_ms": 834,
+      "accuracy": 0.927
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 218,
+    "uczestnik": "U218",
+    "wynik": {
+      "rt_ms": 788,
+      "accuracy": 0.881
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 219,
+    "uczestnik": "U219",
+    "wynik": {
+      "rt_ms": 685,
+      "accuracy": 0.745
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 220,
+    "uczestnik": "U220",
+    "wynik": {
+      "rt_ms": 355,
+      "accuracy": 0.738
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 221,
+    "uczestnik": "U221",
+    "wynik": {
+      "rt_ms": 831,
+      "accuracy": 0.88
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 222,
+    "uczestnik": "U222",
+    "wynik": {
+      "rt_ms": 893,
+      "accuracy": 0.727
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 223,
+    "uczestnik": "U223",
+    "wynik": {
+      "rt_ms": 857,
+      "accuracy": 0.658
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 224,
+    "uczestnik": "U224",
+    "wynik": {
+      "rt_ms": 573,
+      "accuracy": 0.61
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 225,
+    "uczestnik": "U225",
+    "wynik": {
+      "rt_ms": 442,
+      "accuracy": 0.557
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 226,
+    "uczestnik": "U226",
+    "wynik": {
+      "rt_ms": 820,
+      "accuracy": 0.936
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 227,
+    "uczestnik": "U227",
+    "wynik": {
+      "rt_ms": 824,
+      "accuracy": 0.897
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 228,
+    "uczestnik": "U228",
+    "wynik": {
+      "rt_ms": 729,
+      "accuracy": 0.832
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 229,
+    "uczestnik": "U229",
+    "wynik": {
+      "rt_ms": 744,
+      "accuracy": 0.952
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 230,
+    "uczestnik": "U230",
+    "wynik": {
+      "rt_ms": 653,
+      "accuracy": 0.742
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 231,
+    "uczestnik": "U231",
+    "wynik": {
+      "rt_ms": 432,
+      "accuracy": 0.829
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 232,
+    "uczestnik": "U232",
+    "wynik": {
+      "rt_ms": 877,
+      "accuracy": 0.975
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 233,
+    "uczestnik": "U233",
+    "wynik": {
+      "rt_ms": 463,
+      "accuracy": 0.722
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 234,
+    "uczestnik": "U234",
+    "wynik": {
+      "rt_ms": 724,
+      "accuracy": 0.715
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 235,
+    "uczestnik": "U235",
+    "wynik": {
+      "rt_ms": 491,
+      "accuracy": 0.992
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 236,
+    "uczestnik": "U236",
+    "wynik": {
+      "rt_ms": 839,
+      "accuracy": 0.882
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 237,
+    "uczestnik": "U237",
+    "wynik": {
+      "rt_ms": 678,
+      "accuracy": 0.709
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 238,
+    "uczestnik": "U238",
+    "wynik": {
+      "rt_ms": 633,
+      "accuracy": 0.575
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 239,
+    "uczestnik": "U239",
+    "wynik": {
+      "rt_ms": 813,
+      "accuracy": 0.769
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 240,
+    "uczestnik": "U240",
+    "wynik": {
+      "rt_ms": 894,
+      "accuracy": 0.855
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 241,
+    "uczestnik": "U241",
+    "wynik": {
+      "rt_ms": 726,
+      "accuracy": 0.91
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 242,
+    "uczestnik": "U242",
+    "wynik": {
+      "rt_ms": 818,
+      "accuracy": 0.589
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 243,
+    "uczestnik": "U243",
+    "wynik": {
+      "rt_ms": 645,
+      "accuracy": 0.981
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 244,
+    "uczestnik": "U244",
+    "wynik": {
+      "rt_ms": 518,
+      "accuracy": 0.674
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 245,
+    "uczestnik": "U245",
+    "wynik": {
+      "rt_ms": 504,
+      "accuracy": 0.944
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 246,
+    "uczestnik": "U246",
+    "wynik": {
+      "rt_ms": 776,
+      "accuracy": 0.986
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 247,
+    "uczestnik": "U247",
+    "wynik": {
+      "rt_ms": 705,
+      "accuracy": 0.739
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 248,
+    "uczestnik": "U248",
+    "wynik": {
+      "rt_ms": 543,
+      "accuracy": 0.578
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 249,
+    "uczestnik": "U249",
+    "wynik": {
+      "rt_ms": 771,
+      "accuracy": 0.81
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 250,
+    "uczestnik": "U250",
+    "wynik": {
+      "rt_ms": 892,
+      "accuracy": 0.929
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 251,
+    "uczestnik": "U251",
+    "wynik": {
+      "rt_ms": 661,
+      "accuracy": 0.805
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 252,
+    "uczestnik": "U252",
+    "wynik": {
+      "rt_ms": 616,
+      "accuracy": 0.652
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 253,
+    "uczestnik": "U253",
+    "wynik": {
+      "rt_ms": 398,
+      "accuracy": 0.617
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 254,
+    "uczestnik": "U254",
+    "wynik": {
+      "rt_ms": 520,
+      "accuracy": 0.828
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 255,
+    "uczestnik": "U255",
+    "wynik": {
+      "rt_ms": 536,
+      "accuracy": 0.988
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 256,
+    "uczestnik": "U256",
+    "wynik": {
+      "rt_ms": 593,
+      "accuracy": 0.603
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 257,
+    "uczestnik": "U257",
+    "wynik": {
+      "rt_ms": 801,
+      "accuracy": 0.667
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 258,
+    "uczestnik": "U258",
+    "wynik": {
+      "rt_ms": 385,
+      "accuracy": 0.849
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 259,
+    "uczestnik": "U259",
+    "wynik": {
+      "rt_ms": 731,
+      "accuracy": 0.752
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 260,
+    "uczestnik": "U260",
+    "wynik": {
+      "rt_ms": 474,
+      "accuracy": 0.964
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 261,
+    "uczestnik": "U261",
+    "wynik": {
+      "rt_ms": 498,
+      "accuracy": 0.977
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 262,
+    "uczestnik": "U262",
+    "wynik": {
+      "rt_ms": 354,
+      "accuracy": 0.987
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 263,
+    "uczestnik": "U263",
+    "wynik": {
+      "rt_ms": 835,
+      "accuracy": 0.953
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 264,
+    "uczestnik": "U264",
+    "wynik": {
+      "rt_ms": 696,
+      "accuracy": 0.86
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 265,
+    "uczestnik": "U265",
+    "wynik": {
+      "rt_ms": 492,
+      "accuracy": 0.855
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 266,
+    "uczestnik": "U266",
+    "wynik": {
+      "rt_ms": 375,
+      "accuracy": 0.731
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 267,
+    "uczestnik": "U267",
+    "wynik": {
+      "rt_ms": 715,
+      "accuracy": 0.592
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 268,
+    "uczestnik": "U268",
+    "wynik": {
+      "rt_ms": 889,
+      "accuracy": 0.65
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 269,
+    "uczestnik": "U269",
+    "wynik": {
+      "rt_ms": 373,
+      "accuracy": 0.588
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 270,
+    "uczestnik": "U270",
+    "wynik": {
+      "rt_ms": 874,
+      "accuracy": 0.727
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 271,
+    "uczestnik": "U271",
+    "wynik": {
+      "rt_ms": 873,
+      "accuracy": 0.975
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 272,
+    "uczestnik": "U272",
+    "wynik": {
+      "rt_ms": 501,
+      "accuracy": 0.872
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 273,
+    "uczestnik": "U273",
+    "wynik": {
+      "rt_ms": 745,
+      "accuracy": 0.718
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 274,
+    "uczestnik": "U274",
+    "wynik": {
+      "rt_ms": 709,
+      "accuracy": 0.689
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 275,
+    "uczestnik": "U275",
+    "wynik": {
+      "rt_ms": 570,
+      "accuracy": 0.878
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 276,
+    "uczestnik": "U276",
+    "wynik": {
+      "rt_ms": 803,
+      "accuracy": 0.68
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 277,
+    "uczestnik": "U277",
+    "wynik": {
+      "rt_ms": 492,
+      "accuracy": 0.926
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 278,
+    "uczestnik": "U278",
+    "wynik": {
+      "rt_ms": 562,
+      "accuracy": 0.686
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 279,
+    "uczestnik": "U279",
+    "wynik": {
+      "rt_ms": 734,
+      "accuracy": 0.59
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 280,
+    "uczestnik": "U280",
+    "wynik": {
+      "rt_ms": 774,
+      "accuracy": 0.629
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 281,
+    "uczestnik": "U281",
+    "wynik": {
+      "rt_ms": 554,
+      "accuracy": 0.634
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 282,
+    "uczestnik": "U282",
+    "wynik": {
+      "rt_ms": 852,
+      "accuracy": 0.569
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 283,
+    "uczestnik": "U283",
+    "wynik": {
+      "rt_ms": 855,
+      "accuracy": 0.802
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 284,
+    "uczestnik": "U284",
+    "wynik": {
+      "rt_ms": 377,
+      "accuracy": 0.906
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 285,
+    "uczestnik": "U285",
+    "wynik": {
+      "rt_ms": 657,
+      "accuracy": 0.98
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 286,
+    "uczestnik": "U286",
+    "wynik": {
+      "rt_ms": 644,
+      "accuracy": 0.738
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 287,
+    "uczestnik": "U287",
+    "wynik": {
+      "rt_ms": 379,
+      "accuracy": 0.604
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 288,
+    "uczestnik": "U288",
+    "wynik": {
+      "rt_ms": 418,
+      "accuracy": 0.82
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 289,
+    "uczestnik": "U289",
+    "wynik": {
+      "rt_ms": 796,
+      "accuracy": 0.941
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 290,
+    "uczestnik": "U290",
+    "wynik": {
+      "rt_ms": 732,
+      "accuracy": 0.781
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 291,
+    "uczestnik": "U291",
+    "wynik": {
+      "rt_ms": 516,
+      "accuracy": 0.812
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 292,
+    "uczestnik": "U292",
+    "wynik": {
+      "rt_ms": 822,
+      "accuracy": 0.945
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 293,
+    "uczestnik": "U293",
+    "wynik": {
+      "rt_ms": 517,
+      "accuracy": 0.574
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 294,
+    "uczestnik": "U294",
+    "wynik": {
+      "rt_ms": 714,
+      "accuracy": 0.572
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 295,
+    "uczestnik": "U295",
+    "wynik": {
+      "rt_ms": 876,
+      "accuracy": 0.637
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 296,
+    "uczestnik": "U296",
+    "wynik": {
+      "rt_ms": 521,
+      "accuracy": 0.795
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 297,
+    "uczestnik": "U297",
+    "wynik": {
+      "rt_ms": 627,
+      "accuracy": 0.858
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 298,
+    "uczestnik": "U298",
+    "wynik": {
+      "rt_ms": 897,
+      "accuracy": 0.811
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 299,
+    "uczestnik": "U299",
+    "wynik": {
+      "rt_ms": 490,
+      "accuracy": 0.783
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 300,
+    "uczestnik": "U300",
+    "wynik": {
+      "rt_ms": 771,
+      "accuracy": 0.703
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 301,
+    "uczestnik": "U301",
+    "wynik": {
+      "rt_ms": 573,
+      "accuracy": 0.62
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 302,
+    "uczestnik": "U302",
+    "wynik": {
+      "rt_ms": 888,
+      "accuracy": 0.931
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 303,
+    "uczestnik": "U303",
+    "wynik": {
+      "rt_ms": 821,
+      "accuracy": 0.962
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 304,
+    "uczestnik": "U304",
+    "wynik": {
+      "rt_ms": 367,
+      "accuracy": 0.766
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 305,
+    "uczestnik": "U305",
+    "wynik": {
+      "rt_ms": 492,
+      "accuracy": 0.918
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 306,
+    "uczestnik": "U306",
+    "wynik": {
+      "rt_ms": 661,
+      "accuracy": 0.563
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 307,
+    "uczestnik": "U307",
+    "wynik": {
+      "rt_ms": 481,
+      "accuracy": 0.936
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 308,
+    "uczestnik": "U308",
+    "wynik": {
+      "rt_ms": 664,
+      "accuracy": 0.606
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 309,
+    "uczestnik": "U309",
+    "wynik": {
+      "rt_ms": 785,
+      "accuracy": 0.861
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 310,
+    "uczestnik": "U310",
+    "wynik": {
+      "rt_ms": 369,
+      "accuracy": 0.899
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 311,
+    "uczestnik": "U311",
+    "wynik": {
+      "rt_ms": 551,
+      "accuracy": 0.599
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 4
+    }
+  },
+  {
+    "id": 312,
+    "uczestnik": "U312",
+    "wynik": {
+      "rt_ms": 471,
+      "accuracy": 0.959
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 313,
+    "uczestnik": "U313",
+    "wynik": {
+      "rt_ms": 658,
+      "accuracy": 0.85
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 314,
+    "uczestnik": "U314",
+    "wynik": {
+      "rt_ms": 560,
+      "accuracy": 0.814
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 315,
+    "uczestnik": "U315",
+    "wynik": {
+      "rt_ms": 709,
+      "accuracy": 0.563
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 316,
+    "uczestnik": "U316",
+    "wynik": {
+      "rt_ms": 706,
+      "accuracy": 0.708
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 317,
+    "uczestnik": "U317",
+    "wynik": {
+      "rt_ms": 451,
+      "accuracy": 0.919
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  },
+  {
+    "id": 318,
+    "uczestnik": "U318",
+    "wynik": {
+      "rt_ms": 546,
+      "accuracy": 0.984
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 1
+    }
+  },
+  {
+    "id": 319,
+    "uczestnik": "U319",
+    "wynik": {
+      "rt_ms": 451,
+      "accuracy": 0.966
+    },
+    "meta": {
+      "grupa": "eksperymentalna",
+      "sesja": 3
+    }
+  },
+  {
+    "id": 320,
+    "uczestnik": "U320",
+    "wynik": {
+      "rt_ms": 539,
+      "accuracy": 0.748
+    },
+    "meta": {
+      "grupa": "kontrolna",
+      "sesja": 2
+    }
+  }
+]

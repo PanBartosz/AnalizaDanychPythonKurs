@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "uczestnik": "U001",
+    "score": 0.869
+  },
+  {
+    "id": 2,
+    "uczestnik": "U002",
+    "score": 0.723
+  },
+  {
+    "id": 3,
+    "uczestnik": "U003",
+    "score": 0.846
+  },
+  {
+    "id": 4,
+    "uczestnik": "U004",
+    "score": 0.927
+  },
+  {
+    "id": 5,
+    "uczestnik": "U005",
+    "score": 0.785
+  },
+  {
+    "id": 6,
+    "uczestnik": "U006",
+    "score": 0.647
+  },
+  {
+    "id": 7,
+    "uczestnik": "U007",
+    "score": 0.785
+  },
+  {
+    "id": 8,
+    "uczestnik": "U008",
+    "score": 0.623
+  },
+  {
+    "id": 9,
+    "uczestnik": "U009",
+    "score": 0.484
+  },
+  {
+    "id": 10,
+    "uczestnik": "U010",
+    "score": 0.972
+  },
+  {
+    "id": 11,
+    "uczestnik": "U011",
+    "score": 0.892
+  },
+  {
+    "id": 12,
+    "uczestnik": "U012",
+    "score": 0.553
+  },
+  {
+    "id": 13,
+    "uczestnik": "U013",
+    "score": 0.819
+  },
+  {
+    "id": 14,
+    "uczestnik": "U014",
+    "score": 0.863
+  },
+  {
+    "id": 15,
+    "uczestnik": "U015",
+    "score": 0.533
+  },
+  {
+    "id": 16,
+    "uczestnik": "U016",
+    "score": 0.603
+  },
+  {
+    "id": 17,
+    "uczestnik": "U017",
+    "score": 0.671
+  },
+  {
+    "id": 18,
+    "uczestnik": "U018",
+    "score": 0.624
+  },
+  {
+    "id": 19,
+    "uczestnik": "U019",
+    "score": 0.502
+  },
+  {
+    "id": 20,
+    "uczestnik": "U020",
+    "score": 0.806
+  },
+  {
+    "id": 21,
+    "uczestnik": "U021",
+    "score": 0.474
+  },
+  {
+    "id": 22,
+    "uczestnik": "U022",
+    "score": 0.956
+  },
+  {
+    "id": 23,
+    "uczestnik": "U023",
+    "score": 0.546
+  },
+  {
+    "id": 24,
+    "uczestnik": "U024",
+    "score": 0.467
+  },
+  {
+    "id": 25,
+    "uczestnik": "U025",
+    "score": 0.508
+  },
+  {
+    "id": 26,
+    "uczestnik": "U026",
+    "score": 0.553
+  },
+  {
+    "id": 27,
+    "uczestnik": "U027",
+    "score": 0.467
+  },
+  {
+    "id": 28,
+    "uczestnik": "U028",
+    "score": 0.797
+  },
+  {
+    "id": 29,
+    "uczestnik": "U029",
+    "score": 0.66
+  },
+  {
+    "id": 30,
+    "uczestnik": "U030",
+    "score": 0.715
+  },
+  {
+    "id": 31,
+    "uczestnik": "U031",
+    "score": 0.787
+  },
+  {
+    "id": 32,
+    "uczestnik": "U032",
+    "score": 0.769
+  },
+  {
+    "id": 33,
+    "uczestnik": "U033",
+    "score": 0.477
+  },
+  {
+    "id": 34,
+    "uczestnik": "U034",
+    "score": 0.569
+  },
+  {
+    "id": 35,
+    "uczestnik": "U035",
+    "score": 0.838
+  },
+  {
+    "id": 36,
+    "uczestnik": "U036",
+    "score": 0.457
+  },
+  {
+    "id": 37,
+    "uczestnik": "U037",
+    "score": 0.947
+  },
+  {
+    "id": 38,
+    "uczestnik": "U038",
+    "score": 0.804
+  },
+  {
+    "id": 39,
+    "uczestnik": "U039",
+    "score": 0.951
+  },
+  {
+    "id": 40,
+    "uczestnik": "U040",
+    "score": 0.899
+  },
+  {
+    "id": 41,
+    "uczestnik": "U041",
+    "score": 0.703
+  },
+  {
+    "id": 42,
+    "uczestnik": "U042",
+    "score": 0.795
+  },
+  {
+    "id": 43,
+    "uczestnik": "U043",
+    "score": 0.645
+  },
+  {
+    "id": 44,
+    "uczestnik": "U044",
+    "score": 0.851
+  },
+  {
+    "id": 45,
+    "uczestnik": "U045",
+    "score": 0.931
+  },
+  {
+    "id": 46,
+    "uczestnik": "U046",
+    "score": 0.894
+  },
+  {
+    "id": 47,
+    "uczestnik": "U047",
+    "score": 0.879
+  },
+  {
+    "id": 48,
+    "uczestnik": "U048",
+    "score": 0.481
+  },
+  {
+    "id": 49,
+    "uczestnik": "U049",
+    "score": 0.783
+  },
+  {
+    "id": 50,
+    "uczestnik": "U050",
+    "score": 0.736
+  },
+  {
+    "id": 51,
+    "uczestnik": "U051",
+    "score": 0.847
+  },
+  {
+    "id": 52,
+    "uczestnik": "U052",
+    "score": 0.901
+  },
+  {
+    "id": 53,
+    "uczestnik": "U053",
+    "score": 0.492
+  },
+  {
+    "id": 54,
+    "uczestnik": "U054",
+    "score": 0.567
+  },
+  {
+    "id": 55,
+    "uczestnik": "U055",
+    "score": 0.731
+  },
+  {
+    "id": 56,
+    "uczestnik": "U056",
+    "score": 0.505
+  },
+  {
+    "id": 57,
+    "uczestnik": "U057",
+    "score": 0.575
+  },
+  {
+    "id": 58,
+    "uczestnik": "U058",
+    "score": 0.658
+  },
+  {
+    "id": 59,
+    "uczestnik": "U059",
+    "score": 0.554
+  },
+  {
+    "id": 60,
+    "uczestnik": "U060",
+    "score": 0.805
+  },
+  {
+    "id": 61,
+    "uczestnik": "U061",
+    "score": 0.758
+  },
+  {
+    "id": 62,
+    "uczestnik": "U062",
+    "score": 0.962
+  },
+  {
+    "id": 63,
+    "uczestnik": "U063",
+    "score": 0.752
+  },
+  {
+    "id": 64,
+    "uczestnik": "U064",
+    "score": 0.751
+  },
+  {
+    "id": 65,
+    "uczestnik": "U065",
+    "score": 0.853
+  },
+  {
+    "id": 66,
+    "uczestnik": "U066",
+    "score": 0.864
+  },
+  {
+    "id": 67,
+    "uczestnik": "U067",
+    "score": 0.761
+  },
+  {
+    "id": 68,
+    "uczestnik": "U068",
+    "score": 0.814
+  },
+  {
+    "id": 69,
+    "uczestnik": "U069",
+    "score": 0.829
+  },
+  {
+    "id": 70,
+    "uczestnik": "U070",
+    "score": 0.681
+  },
+  {
+    "id": 71,
+    "uczestnik": "U071",
+    "score": 0.506
+  },
+  {
+    "id": 72,
+    "uczestnik": "U072",
+    "score": 0.878
+  },
+  {
+    "id": 73,
+    "uczestnik": "U073",
+    "score": 0.747
+  },
+  {
+    "id": 74,
+    "uczestnik": "U074",
+    "score": 0.723
+  },
+  {
+    "id": 75,
+    "uczestnik": "U075",
+    "score": 0.805
+  },
+  {
+    "id": 76,
+    "uczestnik": "U076",
+    "score": 0.738
+  },
+  {
+    "id": 77,
+    "uczestnik": "U077",
+    "score": 0.774
+  },
+  {
+    "id": 78,
+    "uczestnik": "U078",
+    "score": 0.954
+  },
+  {
+    "id": 79,
+    "uczestnik": "U079",
+    "score": 0.937
+  },
+  {
+    "id": 80,
+    "uczestnik": "U080",
+    "score": 0.747
+  },
+  {
+    "id": 81,
+    "uczestnik": "U081",
+    "score": 0.988
+  },
+  {
+    "id": 82,
+    "uczestnik": "U082",
+    "score": 0.906
+  },
+  {
+    "id": 83,
+    "uczestnik": "U083",
+    "score": 0.673
+  },
+  {
+    "id": 84,
+    "uczestnik": "U084",
+    "score": 0.792
+  },
+  {
+    "id": 85,
+    "uczestnik": "U085",
+    "score": 0.896
+  },
+  {
+    "id": 86,
+    "uczestnik": "U086",
+    "score": 0.625
+  },
+  {
+    "id": 87,
+    "uczestnik": "U087",
+    "score": 0.58
+  },
+  {
+    "id": 88,
+    "uczestnik": "U088",
+    "score": 0.745
+  },
+  {
+    "id": 89,
+    "uczestnik": "U089",
+    "score": 0.653
+  },
+  {
+    "id": 90,
+    "uczestnik": "U090",
+    "score": 0.747
+  },
+  {
+    "id": 91,
+    "uczestnik": "U091",
+    "score": 0.852
+  },
+  {
+    "id": 92,
+    "uczestnik": "U092",
+    "score": 0.644
+  },
+  {
+    "id": 93,
+    "uczestnik": "U093",
+    "score": 0.694
+  },
+  {
+    "id": 94,
+    "uczestnik": "U094",
+    "score": 0.968
+  },
+  {
+    "id": 95,
+    "uczestnik": "U095",
+    "score": 0.45
+  },
+  {
+    "id": 96,
+    "uczestnik": "U096",
+    "score": 0.469
+  },
+  {
+    "id": 97,
+    "uczestnik": "U097",
+    "score": 0.604
+  },
+  {
+    "id": 98,
+    "uczestnik": "U098",
+    "score": 0.459
+  },
+  {
+    "id": 99,
+    "uczestnik": "U099",
+    "score": 0.523
+  },
+  {
+    "id": 100,
+    "uczestnik": "U100",
+    "score": 0.931
+  },
+  {
+    "id": 101,
+    "uczestnik": "U101",
+    "score": 0.454
+  },
+  {
+    "id": 102,
+    "uczestnik": "U102",
+    "score": 0.982
+  },
+  {
+    "id": 103,
+    "uczestnik": "U103",
+    "score": 0.566
+  },
+  {
+    "id": 104,
+    "uczestnik": "U104",
+    "score": 0.62
+  },
+  {
+    "id": 105,
+    "uczestnik": "U105",
+    "score": 0.867
+  },
+  {
+    "id": 106,
+    "uczestnik": "U106",
+    "score": 0.959
+  },
+  {
+    "id": 107,
+    "uczestnik": "U107",
+    "score": 0.894
+  },
+  {
+    "id": 108,
+    "uczestnik": "U108",
+    "score": 0.946
+  },
+  {
+    "id": 109,
+    "uczestnik": "U109",
+    "score": 0.726
+  },
+  {
+    "id": 110,
+    "uczestnik": "U110",
+    "score": 0.758
+  },
+  {
+    "id": 111,
+    "uczestnik": "U111",
+    "score": 0.759
+  },
+  {
+    "id": 112,
+    "uczestnik": "U112",
+    "score": 0.501
+  },
+  {
+    "id": 113,
+    "uczestnik": "U113",
+    "score": 0.699
+  },
+  {
+    "id": 114,
+    "uczestnik": "U114",
+    "score": 0.534
+  },
+  {
+    "id": 115,
+    "uczestnik": "U115",
+    "score": 0.593
+  },
+  {
+    "id": 116,
+    "uczestnik": "U116",
+    "score": 0.93
+  },
+  {
+    "id": 117,
+    "uczestnik": "U117",
+    "score": 0.585
+  },
+  {
+    "id": 118,
+    "uczestnik": "U118",
+    "score": 0.588
+  },
+  {
+    "id": 119,
+    "uczestnik": "U119",
+    "score": 0.612
+  },
+  {
+    "id": 120,
+    "uczestnik": "U120",
+    "score": 0.758
+  },
+  {
+    "id": 121,
+    "uczestnik": "U121",
+    "score": 0.757
+  },
+  {
+    "id": 122,
+    "uczestnik": "U122",
+    "score": 0.567
+  },
+  {
+    "id": 123,
+    "uczestnik": "U123",
+    "score": 0.492
+  },
+  {
+    "id": 124,
+    "uczestnik": "U124",
+    "score": 0.625
+  },
+  {
+    "id": 125,
+    "uczestnik": "U125",
+    "score": 0.711
+  },
+  {
+    "id": 126,
+    "uczestnik": "U126",
+    "score": 0.714
+  },
+  {
+    "id": 127,
+    "uczestnik": "U127",
+    "score": 0.935
+  },
+  {
+    "id": 128,
+    "uczestnik": "U128",
+    "score": 0.83
+  },
+  {
+    "id": 129,
+    "uczestnik": "U129",
+    "score": 0.893
+  },
+  {
+    "id": 130,
+    "uczestnik": "U130",
+    "score": 0.501
+  },
+  {
+    "id": 131,
+    "uczestnik": "U131",
+    "score": 0.797
+  },
+  {
+    "id": 132,
+    "uczestnik": "U132",
+    "score": 0.47
+  },
+  {
+    "id": 133,
+    "uczestnik": "U133",
+    "score": 0.887
+  },
+  {
+    "id": 134,
+    "uczestnik": "U134",
+    "score": 0.656
+  },
+  {
+    "id": 135,
+    "uczestnik": "U135",
+    "score": 0.871
+  },
+  {
+    "id": 136,
+    "uczestnik": "U136",
+    "score": 0.948
+  },
+  {
+    "id": 137,
+    "uczestnik": "U137",
+    "score": 0.631
+  },
+  {
+    "id": 138,
+    "uczestnik": "U138",
+    "score": 0.925
+  },
+  {
+    "id": 139,
+    "uczestnik": "U139",
+    "score": 0.685
+  },
+  {
+    "id": 140,
+    "uczestnik": "U140",
+    "score": 0.952
+  },
+  {
+    "id": 141,
+    "uczestnik": "U141",
+    "score": 0.515
+  },
+  {
+    "id": 142,
+    "uczestnik": "U142",
+    "score": 0.866
+  },
+  {
+    "id": 143,
+    "uczestnik": "U143",
+    "score": 0.854
+  },
+  {
+    "id": 144,
+    "uczestnik": "U144",
+    "score": 0.909
+  },
+  {
+    "id": 145,
+    "uczestnik": "U145",
+    "score": 0.951
+  },
+  {
+    "id": 146,
+    "uczestnik": "U146",
+    "score": 0.792
+  },
+  {
+    "id": 147,
+    "uczestnik": "U147",
+    "score": 0.791
+  },
+  {
+    "id": 148,
+    "uczestnik": "U148",
+    "score": 0.479
+  },
+  {
+    "id": 149,
+    "uczestnik": "U149",
+    "score": 0.733
+  },
+  {
+    "id": 150,
+    "uczestnik": "U150",
+    "score": 0.622
+  },
+  {
+    "id": 151,
+    "uczestnik": "U151",
+    "score": 0.755
+  },
+  {
+    "id": 152,
+    "uczestnik": "U152",
+    "score": 0.626
+  },
+  {
+    "id": 153,
+    "uczestnik": "U153",
+    "score": 0.827
+  },
+  {
+    "id": 154,
+    "uczestnik": "U154",
+    "score": 0.533
+  },
+  {
+    "id": 155,
+    "uczestnik": "U155",
+    "score": 0.814
+  },
+  {
+    "id": 156,
+    "uczestnik": "U156",
+    "score": 0.989
+  },
+  {
+    "id": 157,
+    "uczestnik": "U157",
+    "score": 0.974
+  },
+  {
+    "id": 158,
+    "uczestnik": "U158",
+    "score": 0.857
+  },
+  {
+    "id": 159,
+    "uczestnik": "U159",
+    "score": 0.761
+  },
+  {
+    "id": 160,
+    "uczestnik": "U160",
+    "score": 0.499
+  },
+  {
+    "id": 161,
+    "uczestnik": "U161",
+    "score": 0.683
+  },
+  {
+    "id": 162,
+    "uczestnik": "U162",
+    "score": 0.875
+  },
+  {
+    "id": 163,
+    "uczestnik": "U163",
+    "score": 0.53
+  },
+  {
+    "id": 164,
+    "uczestnik": "U164",
+    "score": 0.632
+  },
+  {
+    "id": 165,
+    "uczestnik": "U165",
+    "score": 0.707
+  },
+  {
+    "id": 166,
+    "uczestnik": "U166",
+    "score": 0.852
+  },
+  {
+    "id": 167,
+    "uczestnik": "U167",
+    "score": 0.746
+  },
+  {
+    "id": 168,
+    "uczestnik": "U168",
+    "score": 0.592
+  },
+  {
+    "id": 169,
+    "uczestnik": "U169",
+    "score": 0.665
+  },
+  {
+    "id": 170,
+    "uczestnik": "U170",
+    "score": 0.685
+  },
+  {
+    "id": 171,
+    "uczestnik": "U171",
+    "score": 0.827
+  },
+  {
+    "id": 172,
+    "uczestnik": "U172",
+    "score": 0.861
+  },
+  {
+    "id": 173,
+    "uczestnik": "U173",
+    "score": 0.71
+  },
+  {
+    "id": 174,
+    "uczestnik": "U174",
+    "score": 0.557
+  },
+  {
+    "id": 175,
+    "uczestnik": "U175",
+    "score": 0.663
+  },
+  {
+    "id": 176,
+    "uczestnik": "U176",
+    "score": 0.759
+  },
+  {
+    "id": 177,
+    "uczestnik": "U177",
+    "score": 0.753
+  },
+  {
+    "id": 178,
+    "uczestnik": "U178",
+    "score": 0.988
+  },
+  {
+    "id": 179,
+    "uczestnik": "U179",
+    "score": 0.733
+  },
+  {
+    "id": 180,
+    "uczestnik": "U180",
+    "score": 0.581
+  },
+  {
+    "id": 181,
+    "uczestnik": "U181",
+    "score": 0.594
+  },
+  {
+    "id": 182,
+    "uczestnik": "U182",
+    "score": 0.682
+  },
+  {
+    "id": 183,
+    "uczestnik": "U183",
+    "score": 0.82
+  },
+  {
+    "id": 184,
+    "uczestnik": "U184",
+    "score": 0.761
+  },
+  {
+    "id": 185,
+    "uczestnik": "U185",
+    "score": 0.511
+  },
+  {
+    "id": 186,
+    "uczestnik": "U186",
+    "score": 0.673
+  },
+  {
+    "id": 187,
+    "uczestnik": "U187",
+    "score": 0.647
+  },
+  {
+    "id": 188,
+    "uczestnik": "U188",
+    "score": 0.553
+  },
+  {
+    "id": 189,
+    "uczestnik": "U189",
+    "score": 0.636
+  },
+  {
+    "id": 190,
+    "uczestnik": "U190",
+    "score": 0.804
+  },
+  {
+    "id": 191,
+    "uczestnik": "U191",
+    "score": 0.866
+  },
+  {
+    "id": 192,
+    "uczestnik": "U192",
+    "score": 0.541
+  },
+  {
+    "id": 193,
+    "uczestnik": "U193",
+    "score": 0.639
+  },
+  {
+    "id": 194,
+    "uczestnik": "U194",
+    "score": 0.894
+  },
+  {
+    "id": 195,
+    "uczestnik": "U195",
+    "score": 0.884
+  },
+  {
+    "id": 196,
+    "uczestnik": "U196",
+    "score": 0.787
+  },
+  {
+    "id": 197,
+    "uczestnik": "U197",
+    "score": 0.688
+  },
+  {
+    "id": 198,
+    "uczestnik": "U198",
+    "score": 0.949
+  },
+  {
+    "id": 199,
+    "uczestnik": "U199",
+    "score": 0.576
+  },
+  {
+    "id": 200,
+    "uczestnik": "U200",
+    "score": 0.82
+  },
+  {
+    "id": 201,
+    "uczestnik": "U201",
+    "score": 0.534
+  },
+  {
+    "id": 202,
+    "uczestnik": "U202",
+    "score": 0.843
+  },
+  {
+    "id": 203,
+    "uczestnik": "U203",
+    "score": 0.496
+  },
+  {
+    "id": 204,
+    "uczestnik": "U204",
+    "score": 0.849
+  },
+  {
+    "id": 205,
+    "uczestnik": "U205",
+    "score": 0.581
+  },
+  {
+    "id": 206,
+    "uczestnik": "U206",
+    "score": 0.785
+  },
+  {
+    "id": 207,
+    "uczestnik": "U207",
+    "score": 0.53
+  },
+  {
+    "id": 208,
+    "uczestnik": "U208",
+    "score": 0.9
+  },
+  {
+    "id": 209,
+    "uczestnik": "U209",
+    "score": 0.605
+  },
+  {
+    "id": 210,
+    "uczestnik": "U210",
+    "score": 0.635
+  },
+  {
+    "id": 211,
+    "uczestnik": "U211",
+    "score": 0.884
+  },
+  {
+    "id": 212,
+    "uczestnik": "U212",
+    "score": 0.615
+  },
+  {
+    "id": 213,
+    "uczestnik": "U213",
+    "score": 0.704
+  },
+  {
+    "id": 214,
+    "uczestnik": "U214",
+    "score": 0.629
+  },
+  {
+    "id": 215,
+    "uczestnik": "U215",
+    "score": 0.85
+  },
+  {
+    "id": 216,
+    "uczestnik": "U216",
+    "score": 0.564
+  },
+  {
+    "id": 217,
+    "uczestnik": "U217",
+    "score": 0.745
+  },
+  {
+    "id": 218,
+    "uczestnik": "U218",
+    "score": 0.855
+  },
+  {
+    "id": 219,
+    "uczestnik": "U219",
+    "score": 0.746
+  },
+  {
+    "id": 220,
+    "uczestnik": "U220",
+    "score": 0.786
+  },
+  {
+    "id": 221,
+    "uczestnik": "U221",
+    "score": 0.986
+  },
+  {
+    "id": 222,
+    "uczestnik": "U222",
+    "score": 0.825
+  },
+  {
+    "id": 223,
+    "uczestnik": "U223",
+    "score": 0.811
+  },
+  {
+    "id": 224,
+    "uczestnik": "U224",
+    "score": 0.653
+  },
+  {
+    "id": 225,
+    "uczestnik": "U225",
+    "score": 0.939
+  },
+  {
+    "id": 226,
+    "uczestnik": "U226",
+    "score": 0.734
+  },
+  {
+    "id": 227,
+    "uczestnik": "U227",
+    "score": 0.588
+  },
+  {
+    "id": 228,
+    "uczestnik": "U228",
+    "score": 0.482
+  },
+  {
+    "id": 229,
+    "uczestnik": "U229",
+    "score": 0.558
+  },
+  {
+    "id": 230,
+    "uczestnik": "U230",
+    "score": 0.826
+  },
+  {
+    "id": 231,
+    "uczestnik": "U231",
+    "score": 0.596
+  },
+  {
+    "id": 232,
+    "uczestnik": "U232",
+    "score": 0.701
+  },
+  {
+    "id": 233,
+    "uczestnik": "U233",
+    "score": 0.96
+  },
+  {
+    "id": 234,
+    "uczestnik": "U234",
+    "score": 0.486
+  },
+  {
+    "id": 235,
+    "uczestnik": "U235",
+    "score": 0.807
+  },
+  {
+    "id": 236,
+    "uczestnik": "U236",
+    "score": 0.808
+  },
+  {
+    "id": 237,
+    "uczestnik": "U237",
+    "score": 0.943
+  },
+  {
+    "id": 238,
+    "uczestnik": "U238",
+    "score": 0.645
+  },
+  {
+    "id": 239,
+    "uczestnik": "U239",
+    "score": 0.508
+  },
+  {
+    "id": 240,
+    "uczestnik": "U240",
+    "score": 0.608
+  },
+  {
+    "id": 241,
+    "uczestnik": "U241",
+    "score": 0.927
+  },
+  {
+    "id": 242,
+    "uczestnik": "U242",
+    "score": 0.659
+  },
+  {
+    "id": 243,
+    "uczestnik": "U243",
+    "score": 0.979
+  },
+  {
+    "id": 244,
+    "uczestnik": "U244",
+    "score": 0.725
+  },
+  {
+    "id": 245,
+    "uczestnik": "U245",
+    "score": 0.833
+  },
+  {
+    "id": 246,
+    "uczestnik": "U246",
+    "score": 0.938
+  },
+  {
+    "id": 247,
+    "uczestnik": "U247",
+    "score": 0.712
+  },
+  {
+    "id": 248,
+    "uczestnik": "U248",
+    "score": 0.772
+  },
+  {
+    "id": 249,
+    "uczestnik": "U249",
+    "score": 0.498
+  },
+  {
+    "id": 250,
+    "uczestnik": "U250",
+    "score": 0.557
+  },
+  {
+    "id": 251,
+    "uczestnik": "U251",
+    "score": 0.972
+  },
+  {
+    "id": 252,
+    "uczestnik": "U252",
+    "score": 0.753
+  },
+  {
+    "id": 253,
+    "uczestnik": "U253",
+    "score": 0.835
+  },
+  {
+    "id": 254,
+    "uczestnik": "U254",
+    "score": 0.471
+  },
+  {
+    "id": 255,
+    "uczestnik": "U255",
+    "score": 0.948
+  },
+  {
+    "id": 256,
+    "uczestnik": "U256",
+    "score": 0.615
+  },
+  {
+    "id": 257,
+    "uczestnik": "U257",
+    "score": 0.715
+  },
+  {
+    "id": 258,
+    "uczestnik": "U258",
+    "score": 0.852
+  },
+  {
+    "id": 259,
+    "uczestnik": "U259",
+    "score": 0.46
+  },
+  {
+    "id": 260,
+    "uczestnik": "U260",
+    "score": 0.82
+  },
+  {
+    "id": 261,
+    "uczestnik": "U261",
+    "score": 0.642
+  },
+  {
+    "id": 262,
+    "uczestnik": "U262",
+    "score": 0.613
+  },
+  {
+    "id": 263,
+    "uczestnik": "U263",
+    "score": 0.988
+  },
+  {
+    "id": 264,
+    "uczestnik": "U264",
+    "score": 0.978
+  },
+  {
+    "id": 265,
+    "uczestnik": "U265",
+    "score": 0.599
+  },
+  {
+    "id": 266,
+    "uczestnik": "U266",
+    "score": 0.483
+  },
+  {
+    "id": 267,
+    "uczestnik": "U267",
+    "score": 0.589
+  },
+  {
+    "id": 268,
+    "uczestnik": "U268",
+    "score": 0.659
+  },
+  {
+    "id": 269,
+    "uczestnik": "U269",
+    "score": 0.99
+  },
+  {
+    "id": 270,
+    "uczestnik": "U270",
+    "score": 0.985
+  },
+  {
+    "id": 271,
+    "uczestnik": "U271",
+    "score": 0.96
+  },
+  {
+    "id": 272,
+    "uczestnik": "U272",
+    "score": 0.963
+  },
+  {
+    "id": 273,
+    "uczestnik": "U273",
+    "score": 0.572
+  },
+  {
+    "id": 274,
+    "uczestnik": "U274",
+    "score": 0.635
+  },
+  {
+    "id": 275,
+    "uczestnik": "U275",
+    "score": 0.662
+  },
+  {
+    "id": 276,
+    "uczestnik": "U276",
+    "score": 0.524
+  },
+  {
+    "id": 277,
+    "uczestnik": "U277",
+    "score": 0.844
+  },
+  {
+    "id": 278,
+    "uczestnik": "U278",
+    "score": 0.731
+  },
+  {
+    "id": 279,
+    "uczestnik": "U279",
+    "score": 0.816
+  },
+  {
+    "id": 280,
+    "uczestnik": "U280",
+    "score": 0.921
+  },
+  {
+    "id": 281,
+    "uczestnik": "U281",
+    "score": 0.821
+  },
+  {
+    "id": 282,
+    "uczestnik": "U282",
+    "score": 0.675
+  },
+  {
+    "id": 283,
+    "uczestnik": "U283",
+    "score": 0.759
+  },
+  {
+    "id": 284,
+    "uczestnik": "U284",
+    "score": 0.68
+  },
+  {
+    "id": 285,
+    "uczestnik": "U285",
+    "score": 0.619
+  },
+  {
+    "id": 286,
+    "uczestnik": "U286",
+    "score": 0.777
+  },
+  {
+    "id": 287,
+    "uczestnik": "U287",
+    "score": 0.693
+  },
+  {
+    "id": 288,
+    "uczestnik": "U288",
+    "score": 0.521
+  },
+  {
+    "id": 289,
+    "uczestnik": "U289",
+    "score": 0.802
+  },
+  {
+    "id": 290,
+    "uczestnik": "U290",
+    "score": 0.764
+  },
+  {
+    "id": 291,
+    "uczestnik": "U291",
+    "score": 0.819
+  },
+  {
+    "id": 292,
+    "uczestnik": "U292",
+    "score": 0.559
+  },
+  {
+    "id": 293,
+    "uczestnik": "U293",
+    "score": 0.525
+  },
+  {
+    "id": 294,
+    "uczestnik": "U294",
+    "score": 0.822
+  },
+  {
+    "id": 295,
+    "uczestnik": "U295",
+    "score": 0.935
+  },
+  {
+    "id": 296,
+    "uczestnik": "U296",
+    "score": 0.941
+  },
+  {
+    "id": 297,
+    "uczestnik": "U297",
+    "score": 0.682
+  },
+  {
+    "id": 298,
+    "uczestnik": "U298",
+    "score": 0.941
+  },
+  {
+    "id": 299,
+    "uczestnik": "U299",
+    "score": 0.866
+  },
+  {
+    "id": 300,
+    "uczestnik": "U300",
+    "score": 0.804
+  },
+  {
+    "id": 301,
+    "uczestnik": "U301",
+    "score": 0.755
+  },
+  {
+    "id": 302,
+    "uczestnik": "U302",
+    "score": 0.535
+  },
+  {
+    "id": 303,
+    "uczestnik": "U303",
+    "score": 0.487
+  },
+  {
+    "id": 304,
+    "uczestnik": "U304",
+    "score": 0.738
+  },
+  {
+    "id": 305,
+    "uczestnik": "U305",
+    "score": 0.838
+  },
+  {
+    "id": 306,
+    "uczestnik": "U306",
+    "score": 0.549
+  },
+  {
+    "id": 307,
+    "uczestnik": "U307",
+    "score": 0.903
+  },
+  {
+    "id": 308,
+    "uczestnik": "U308",
+    "score": 0.529
+  },
+  {
+    "id": 309,
+    "uczestnik": "U309",
+    "score": 0.466
+  },
+  {
+    "id": 310,
+    "uczestnik": "U310",
+    "score": 0.622
+  },
+  {
+    "id": 311,
+    "uczestnik": "U311",
+    "score": 0.975
+  },
+  {
+    "id": 312,
+    "uczestnik": "U312",
+    "score": 0.969
+  },
+  {
+    "id": 313,
+    "uczestnik": "U313",
+    "score": 0.614
+  },
+  {
+    "id": 314,
+    "uczestnik": "U314",
+    "score": 0.853
+  },
+  {
+    "id": 315,
+    "uczestnik": "U315",
+    "score": 0.894
+  },
+  {
+    "id": 316,
+    "uczestnik": "U316",
+    "score": 0.794
+  },
+  {
+    "id": 317,
+    "uczestnik": "U317",
+    "score": 0.849
+  },
+  {
+    "id": 318,
+    "uczestnik": "U318",
+    "score": 0.532
+  },
+  {
+    "id": 319,
+    "uczestnik": "U319",
+    "score": 0.551
+  },
+  {
+    "id": 320,
+    "uczestnik": "U320",
+    "score": 0.521
+  },
+  {
+    "id": 321,
+    "uczestnik": "U321",
+    "score": 0.464
+  },
+  {
+    "id": 322,
+    "uczestnik": "U322",
+    "score": 0.982
+  },
+  {
+    "id": 323,
+    "uczestnik": "U323",
+    "score": 0.783
+  },
+  {
+    "id": 324,
+    "uczestnik": "U324",
+    "score": 0.777
+  },
+  {
+    "id": 325,
+    "uczestnik": "U325",
+    "score": 0.781
+  },
+  {
+    "id": 326,
+    "uczestnik": "U326",
+    "score": 0.772
+  },
+  {
+    "id": 327,
+    "uczestnik": "U327",
+    "score": 0.575
+  },
+  {
+    "id": 328,
+    "uczestnik": "U328",
+    "score": 0.464
+  },
+  {
+    "id": 329,
+    "uczestnik": "U329",
+    "score": 0.493
+  },
+  {
+    "id": 330,
+    "uczestnik": "U330",
+    "score": 0.871
+  },
+  {
+    "id": 331,
+    "uczestnik": "U331",
+    "score": 0.522
+  },
+  {
+    "id": 332,
+    "uczestnik": "U332",
+    "score": 0.907
+  },
+  {
+    "id": 333,
+    "uczestnik": "U333",
+    "score": 0.703
+  },
+  {
+    "id": 334,
+    "uczestnik": "U334",
+    "score": 0.801
+  },
+  {
+    "id": 335,
+    "uczestnik": "U335",
+    "score": 0.549
+  },
+  {
+    "id": 336,
+    "uczestnik": "U336",
+    "score": 0.659
+  },
+  {
+    "id": 337,
+    "uczestnik": "U337",
+    "score": 0.706
+  },
+  {
+    "id": 338,
+    "uczestnik": "U338",
+    "score": 0.538
+  },
+  {
+    "id": 339,
+    "uczestnik": "U339",
+    "score": 0.572
+  },
+  {
+    "id": 340,
+    "uczestnik": "U340",
+    "score": 0.671
+  },
+  {
+    "id": 341,
+    "uczestnik": "U341",
+    "score": 0.973
+  },
+  {
+    "id": 342,
+    "uczestnik": "U342",
+    "score": 0.95
+  },
+  {
+    "id": 343,
+    "uczestnik": "U343",
+    "score": 0.963
+  },
+  {
+    "id": 344,
+    "uczestnik": "U344",
+    "score": 0.57
+  },
+  {
+    "id": 345,
+    "uczestnik": "U345",
+    "score": 0.813
+  },
+  {
+    "id": 346,
+    "uczestnik": "U346",
+    "score": 0.56
+  },
+  {
+    "id": 347,
+    "uczestnik": "U347",
+    "score": 0.56
+  },
+  {
+    "id": 348,
+    "uczestnik": "U348",
+    "score": 0.546
+  },
+  {
+    "id": 349,
+    "uczestnik": "U349",
+    "score": 0.966
+  },
+  {
+    "id": 350,
+    "uczestnik": "U350",
+    "score": 0.687
+  }
+]
